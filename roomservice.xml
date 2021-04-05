@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project name="synt4x93/android_kernel_samsung_universal9810" path="kernel/samsung/universal9810" remote="github" revision="lineage-18.1" />
+    <project name="synt4x93/android_device_samsung_universal9810-common" path="device/samsung/universal9810-common" remote="github" revision="lineage-18.1" />
+    <project name="synt4x93/android_device_samsung_star2lte" path="device/samsung/star2lte" remote="github" revision="lineage-18.1" />
+    <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-18.1" />
+    <project name="ivanmeler/beyonds" path="device/samsung" remote="private" revision="18.0_note"/>
+    <project name="ivanmeler/android_kernel_samsung_beyondlte" path="kernel/samsung/q_kernel" remote="private" revision="lineage-18.0"/>
+    <project name="ivanmeler/proprietary_vendor_samsung_universal9820-common" path="vendor/samsung" remote="private" revision="d2s"/>
+</manifest>
